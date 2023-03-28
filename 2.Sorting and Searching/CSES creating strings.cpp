@@ -61,6 +61,22 @@ void solve() {
     }
 
 }
+
+/*void solve() { // This solution also gives AC
+
+   string s; cin >> s; sort(s.begin(),s.end());
+   std::vector<string> ans;
+
+   do{
+          ans.push_back(s);
+   }while(next_permutation(s.begin(),s.end()));
+   
+   cout << ans.size() << '\n';
+
+   for(auto x:ans) cout << x << '\n';
+   
+}*/
+
 int32_t main()
 {
      std::ios::sync_with_stdio(false);cin.tie(NULL); 
@@ -69,4 +85,5 @@ int32_t main()
 
      return 0;
 }
+
 
