@@ -64,3 +64,19 @@ This repo contains solutions of CSES Problemset . You can find the problems on [
 1. [CSES message route](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20message%20route.cpp)
 1. [CSES round_trip](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20round_trip.cpp)
 </details>
+
+<details>
+<summary> 
+<b>Range Queries</b></summary>
+
+1. [CSES Static Range Minimum Queries](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/CSES%20Static%20Range%20Minimum%20Queries.cpp)
+1. [Static Range Sum Queries](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/Static%20Range%20Sum%20Queries.cpp)
+
+</details>
+
+<details>
+<summary> 
+<b>Mathematics</b></summary>
+
+1. [CSES common divisors](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/7.Mathematics/CSES%20common%20divisors.cpp)
+</details>
