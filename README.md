@@ -1,4 +1,4 @@
-This repo contains solutions of CSES Problemset . You can find the problems on [CSES Website.](https://cses.fi/)
+This repo contains solutions of CSES Problemset . You can find the problems on [CSES Website.](https://cses.fi/problemset/)
 
 <h3>CLICK on the Topic Names below </h3>
 <img width = "100px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> <br> <br>
