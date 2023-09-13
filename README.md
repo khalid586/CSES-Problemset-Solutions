@@ -2,7 +2,7 @@
 
 ## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
 
-**This repo contains solutions of <a href = "https://cses.fi/problemset/"><img align = "center" src = "https://img.shields.io/badge/CSES Problemset-%23E60023.svg?"></a> . You can find the problems on [CSES website](https://cses.fi/problemset/)**
+**This repo contains solutions of <a href = "https://cses.fi/problemset/"><img align = "center" src = "https://img.shields.io/badge/CSES Problemset-%23E60023.svg?"></a> . You can find the problems on [CSES](https://cses.fi/problemset/) website.**
 
 <br>
 
