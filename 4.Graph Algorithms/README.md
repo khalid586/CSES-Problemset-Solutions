@@ -7,6 +7,6 @@
 1. [**CSES Labyrinth**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Labyrinth.cpp)
 1. [**CSES Shortest Routes I**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Shortest%20Routes%20I.cpp)
 1. [**CSES counting rooms[DFS]**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BDFS%5D.cpp)
-1. [**CSES counting rooms[BFS]**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BBFS%5D.cpp)
+    - [**CSES counting rooms[BFS]**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BBFS%5D.cpp)
 1. [**CSES Message Route**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20message%20route.cpp)
 1. [**CSES Round_trip**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20round_trip.cpp)

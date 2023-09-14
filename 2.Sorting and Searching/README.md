@@ -12,3 +12,4 @@
 1. [CSES concert tickets](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20concert%20tickets.cpp)
 1. [Distinct Numbers](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 1. [CSES subarray sums I](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/2.Sorting%20and%20Searching/CSES%20subarray%20sums%20I.cpp)
+    - [CSES subarray sums I [using set]]()

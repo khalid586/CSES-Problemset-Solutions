@@ -13,7 +13,7 @@
 |[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| **14**|
 |[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|**11**|
 |[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|**05**|
-|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|**09**|
+|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|**08**|
 |[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|**02**|
 |[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|**01**|
-|**Total solved problems**|**43**|
+|**Total solved problems**|**42**|
