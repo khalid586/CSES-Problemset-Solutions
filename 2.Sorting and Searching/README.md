@@ -1,5 +1,6 @@
-## Searing and Sorting
+<img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
+## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Searing and Sorting
 1. [CSES Collecting Numbers](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Collecting%20Numbers.cpp)
 1. [CSES Maximum Subarray Sum](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Maximum%20Subarray%20Sum.cpp)
 1. [CSES Movie Festival](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Movie%20Festival.cpp)
