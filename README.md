@@ -4,7 +4,7 @@
 
 **[CSES](https://cses.fi/problemset/) is one of the most reputated websites for learning data structures and algorithms by solving problems.Almost each problem is related to some kind of algorithm or data structure.**
 
-**When it comes to competitive programming it is very important to learn new techniques by solving problems. But it is not guranteed that each problem will teach you new concept. That is where CSES problemset comes into play. Giving you opportunity to learn new techniques by solving problems.**
+**When it comes to competitive programming it is very important to learn new techniques by solving problems. But it is not guaranteed that each problem will teach you new concept. That is where CSES problemset comes into play. Giving you opportunity to learn new techniques by solving problems.**
 
 **This repo contains solutions of <a href = "https://cses.fi/problemset/"><img align = "center" src = "https://img.shields.io/badge/CSES Problemset-%23E60023.svg?"></a> that I have solved.**
 
