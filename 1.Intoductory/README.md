@@ -15,5 +15,3 @@
 1. [CSES Increasing Array](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/1.Intoductory/CSES%20Increasing%20Array.cpp)
 1. [CSES Missing Number](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/1.Intoductory/CSES%20Missing%20Number.cpp)
 1. [CSES Number Spiral](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/1.Intoductory/CSES%20Number%20Spiral.cpp)
-
-<!-- One problem to be added (sub array sums) -->

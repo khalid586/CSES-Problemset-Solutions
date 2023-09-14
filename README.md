@@ -8,9 +8,12 @@
 
 ## <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
 
-- [**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)
-- [**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)
-- [**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)
-- [**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)
-- [**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)
-- [**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)
+|Topic Name|Solved Problems|
+|----------|---------------|
+|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| 14|
+|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|11|
+|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|5|
+|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|9|
+|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|2|
+|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|1|
+|**Total solved problems**|**42**|
