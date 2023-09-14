@@ -16,4 +16,4 @@
 |[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|**09**|
 |[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|**02**|
 |[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|**01**|
-|**Total solved problems**|**42**|
+|**Total solved problems**|**43**|
