@@ -28,3 +28,4 @@
 |<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**Additional Problems**|-|
 |<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|![](https://img.shields.io/badge/01-%231877F2.svg?)|
 |||**Total**|![](https://img.shields.io/badge/42-%23E60023.svg?style=flat)|
+
