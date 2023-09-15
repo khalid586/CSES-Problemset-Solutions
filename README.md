@@ -21,5 +21,10 @@ Status|Topic|Solved Problems|
 |✅|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|![](https://img.shields.io/badge/05-%231877F2.svg?)|
 |✅|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|![](https://img.shields.io/badge/08-%231877F2.svg?)|
 |✅|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|![](https://img.shields.io/badge/02-%231877F2.svg?)|
+||**Tree Algorithms**|-|
+||**String Algorithms**|-|
+||**Geometry**|-|
+||**Advance Techniques**|-|
+||**Additional Problems**|-|
 |✅|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|![](https://img.shields.io/badge/01-%231877F2.svg?)|
 ||**Total**|![](https://img.shields.io/badge/42-%23E60023.svg?style=flat)|
