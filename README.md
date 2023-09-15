@@ -16,15 +16,15 @@
 
 ||Status|Topic|Solved Problems|
 |--------|-----|-----|---------------|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| ![](https://img.shields.io/badge/14-%231877F2.svg?)|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|![](https://img.shields.io/badge/11-%231877F2.svg?)|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|![](https://img.shields.io/badge/05-%231877F2.svg?)|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|![](https://img.shields.io/badge/08-%231877F2.svg?)|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|![](https://img.shields.io/badge/02-%231877F2.svg?)|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**Tree Algorithms**|-|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**String Algorithms**|-|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**Geometry**|-|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**Advance Techniques**|-|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">||**Additional Problems**|-|
-|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|![](https://img.shields.io/badge/01-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| ![](https://img.shields.io/badge/14-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|![](https://img.shields.io/badge/11-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|![](https://img.shields.io/badge/05-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|![](https://img.shields.io/badge/08-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|![](https://img.shields.io/badge/02-%231877F2.svg?)|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**||**Tree Algorithms**|-|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**||**String Algorithms**|-|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**||**Geometry**|-|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**||**Advance Techniques**|-|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**||**Additional Problems**|-|
+|<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg"><br>**CSES**|✅|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|![](https://img.shields.io/badge/01-%231877F2.svg?)|
 |||**Total**|![](https://img.shields.io/badge/42-%23E60023.svg?style=flat)|
