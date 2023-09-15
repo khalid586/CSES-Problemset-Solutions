@@ -14,7 +14,7 @@
 
 ## <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
 
-||Status|Topic|Solved Problems|
+|||Topic|Solved Problems|
 |--------|-----|-----|---------------|
 |<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| ![](https://img.shields.io/badge/14-%231877F2.svg?)|
 |<img align = "center" width = "50px" height = "35px" src = "assets/cses2.jpg">|✅|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|![](https://img.shields.io/badge/11-%231877F2.svg?)|
