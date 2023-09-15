@@ -14,12 +14,12 @@
 
 ## <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
 
-|Topic Name|Solved Problems|
-|----------|---------------|
-|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| **14**|
-|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|**11**|
-|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|**05**|
-|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|**08**|
-|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|**02**|
-|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|**01**|
-|**Total solved problems**|**42**|
+Status|Topic|Solved Problems|
+|-----|-----|---------------|
+|✅|[**Introduction**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/1.Intoductory)| ![](https://img.shields.io/badge/14-%231877F2.svg?)|
+|✅|[**Searching and Sorting**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/2.Sorting%20and%20Searching)|![](https://img.shields.io/badge/11-%231877F2.svg?)|
+|✅|[**Dynamic Programming**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/3.Dynamic%20Programming)|![](https://img.shields.io/badge/05-%231877F2.svg?)|
+|✅|[**Graph Algorithms**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/4.Graph%20Algorithms)|![](https://img.shields.io/badge/08-%231877F2.svg?)|
+|✅|[**Range Queries**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/5.Range%20Queries)|![](https://img.shields.io/badge/02-%231877F2.svg?)|
+|✅|[**Mathematics**](https://github.com/khalid586/CSES-Problemset-Solutions/tree/main/7.Mathematics)|![](https://img.shields.io/badge/01-%231877F2.svg?)|
+||**Total**|![](https://img.shields.io/badge/42-%23E60023.svg?style=flat)|
