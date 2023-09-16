@@ -6,3 +6,5 @@
 |-|-|-|-|-|
 |✅|**1**.| <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg"> |  [**Static Range Sum Queries**](https://cses.fi/problemset/task/1646) |  [**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/Static%20Range%20Sum%20Queries.cpp) |
 |✅|**2**. |  <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg">|   [**Static Range Minimum Queries**](https://cses.fi/problemset/task/1647)|  [**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/CSES%20Static%20Range%20Minimum%20Queries.cpp) |
+|  |**3**.|  <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg"> |[**Dynamic Range Sum Queries**](https://cses.fi/problemset/task/1648) | []() |
+| | **4**. | <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg"> |  [**Dynamic Range Minimum Queries**](https://cses.fi/problemset/task/1649) |  []()  |
