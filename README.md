@@ -12,7 +12,7 @@
 
 <br>
 
-## <img src = "assets/icpc.jpg" align = "center" width = "60px" height = "40px"> Topics
+## <img src = "assets/mix.png" align = "center" width = "60px" height = "40px"> Topics
 
 ||________|Topic|Solved Problems|
 |--------|-----|-----|---------------|
