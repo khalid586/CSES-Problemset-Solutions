@@ -4,5 +4,5 @@
 
 ||No|_____|Problem|Solution|
 |-|-|-|-|-|
-|✅|**1**.|<img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg">|[**Static Range Minimum Queries**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/CSES%20Static%20Range%20Minimum%20Queries.cpp)|
-|✅|**2**.| <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg">|[**Static Range Sum Queries**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/Static%20Range%20Sum%20Queries.cpp)|
+|✅|**1**.| <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg"> |  [**Static Range Sum Queries**](https://cses.fi/problemset/task/1646) |  [**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/Static%20Range%20Sum%20Queries.cpp) |
+|✅|**2**. |  <img align = "center" width = "50px" height = "35px" src = "assets/cses banner.jpeg">|   [**Static Range Minimum Queries**](https://cses.fi/problemset/task/1647)|  [**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/5.Range%20Queries/CSES%20Static%20Range%20Minimum%20Queries.cpp) |
