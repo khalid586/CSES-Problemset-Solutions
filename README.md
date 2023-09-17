@@ -12,7 +12,6 @@
 
 <br>
 
-
 ## <img src = "assets/mix.png" align = "center" width = "50px" height = "35px"> Topics
 
 ||________|Topic|Solved Problems|
