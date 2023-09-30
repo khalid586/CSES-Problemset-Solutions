@@ -5,7 +5,7 @@
 |_|_____|Problem|Solution|
 |-|:-----:|:----:|:-----:|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Distinct Numbers**](https://.fi/problemset/task/1621)|[**Solution**](https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/Distinct%20Numbers.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Collecting Numbers**](https://cses.fi/problemset/task/2216)|[**Solution**]((https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/%20Collecting%20Numbers.cpp))|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Collecting Numbers**](https://cses.fi/problemset/task/2216)|[**Solution**](https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/%20Collecting%20Numbers.cpp)|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Maximum Subarray Sum**](https://cses.fi/problemset/task/1643)|[**Solution**](https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/%20Maximum%20Subarray%20Sum.cpp)|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Movie Festival**](https://cses.fi/problemset/task/1629)|[**Solution**](https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/%20Movie%20Festival.cpp)|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Restaurant Customers**](https://cses.fi/problemset/task/1619)|[**Solution**](https://github.com/khalid586/-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/%20Restaurant%20Customers.cpp)|
