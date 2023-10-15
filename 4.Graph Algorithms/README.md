@@ -4,13 +4,13 @@
 
 
 
-|_|_____|Problem|Solution|
-|-|:-----:|:----:|:-----:|
+|___|_______|Problem|Solution|
+|---|:-----:|:-----:|:-------:|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Building Roads**](https://cses.fi/problemset/task/1666)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Building%20Roads_1666.cpp)|
 |✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Building Teams**](https://cses.fi/problemset/task/1668)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Building%20Teams_1668.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Course Schedule**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Course%20Schedule.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Labyrinth**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Labyrinth.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**CSES Shortest Routes I**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Shortest%20Routes%20I.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Counting rooms**]()|[**Solution (Using DFS)**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BDFS%5D.cpp) <br><br> [**Solution (Using BFS)**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BBFS%5D.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**CSES Message Route**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20message%20route.cpp)|
-|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**CSES Round_trip**]()|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20round_trip.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Course Schedule**](https://cses.fi/problemset/task/1679)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Course%20Schedule.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Labyrinth**](https://cses.fi/problemset/task/1193)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Labyrinth.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Shortest Routes I**](https://cses.fi/problemset/task/1671)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20Shortest%20Routes%20I.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Counting rooms**](https://cses.fi/problemset/task/1192)|[**Solution (Using DFS)**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BDFS%5D.cpp) <br><br> [**Solution (Using BFS)**](https://github.com/khalid586/CSES-Problemset-Solutions/blob/main/4.Graph%20Algorithms/CSES%20counting%20rooms%5BBFS%5D.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Message Route**](https://cses.fi/problemset/task/1667)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20message%20route.cpp)|
+|✅|<img align = "center" width = "45px" height = "30px" src = "cses banner.jpeg">|[**Round_trip**](https://cses.fi/problemset/task/1669)|[**Solution**](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/4.Graph%20Algorithms/CSES%20round_trip.cpp)|
