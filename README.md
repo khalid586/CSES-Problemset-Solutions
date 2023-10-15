@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/khalid586/CSES-Problemset-Solutions) 
 <!-- ![GitHub forks](https://img.shields.io/github/forks/khalid586/Competitive-programming-Topics)  -->
 
-## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> [ Introduction](#introduction)
+## [<img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px">]() Introduction
 
 **[CSES](https://cses.fi/problemset/) is one of the most reputated websites for learning data structures and algorithms by solving problems.Almost each problem is related to some kind of algorithm or data structure.**
 
